@@ -148,7 +148,7 @@ const Contact = () => {
         >
 
         <a
-            href={`mailto:${contact.email}`}
+             href="tel:+201070145013"
             target="_blank"
             className="px-8 py-3 rounded-full bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-semibold transition hover:scale-105"
         >
