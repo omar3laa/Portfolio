@@ -50,7 +50,6 @@ const Footer = () => {
 
         <p className="text-center text-sm text-gray-500 mt-8">
           © {new Date().getFullYear()} Omar Alaa.
-          Built with React, Tailwind CSS & Framer Motion.
         </p>
 
       </div>
