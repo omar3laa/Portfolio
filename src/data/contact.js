@@ -3,7 +3,7 @@ export const contact = {
 
   github: "https://github.com/omar3laa",
 
-  linkedin: "www.linkedin.com/in/omar-alaa-62a0262a9",
+  linkedin: "https://www.linkedin.com/in/omar-alaa-62a0262a9",
 
   location: "Asyut, Egypt",
 };
